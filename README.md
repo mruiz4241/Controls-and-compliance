@@ -1,5 +1,4 @@
 # Controls and Compliance
-Security Audit
 
 ## Objective:
 Conduct a security audit on a fictional company named Botium Toys. 
