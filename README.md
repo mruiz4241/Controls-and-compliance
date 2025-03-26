@@ -13,5 +13,5 @@ Botium Toys is a modest toy development and sales company based in the United St
 
 ## Botium Toys Scope, Goals, and Risk Assessment Report
 
-<a href="path/to/your/document.pdf" download>Botium Toys' Scope, Goals, and Risk Assessment Report</a>
+<a href="https://github.com/mruiz4241/Botium-Toys-Scope-Goals-and-Risk-Assessment-Report/blob/main/Botium%20Toys_%20Scope%2C%20goals%2C%20and%20risk%20assessment%20report%20-%20Google%20Docs.pdf" download>Botium Toys' Scope, Goals, and Risk Assessment Report</a>
 
