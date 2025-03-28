@@ -17,5 +17,5 @@ Botium Toys is a modest toy development and sales company based in the United St
 
 ## Completed Checklist
 
-<a href="https://github.com/mruiz4241/Controls-and-Compliance-Checklist/blob/main/_Controls%20and%20compliance%20checklist_%20-%20Google%20Docs.pdf">Controls and compliance checklist</a>
+<a href="https://github.com/mruiz4241/Controls-and-Compliance-Checklist/blob/2c9c7f14c4ffea7bf19f155180b6ba7da61c563e/_Controls%20and%20compliance%20checklist_%20-%20Google%20Docs.pdf">Controls and compliance checklist</a>
 
